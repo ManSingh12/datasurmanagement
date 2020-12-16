@@ -23,6 +23,7 @@
                     </ul>
                   </li>
                   <li id="contact"  class="nav-item"><a href="<?php echo $modulelink; ?>&action=fullsaleprocess" class="fullsaleprocess"><i class="wgs-flat-icon fas fa-poll"></i>Full Sales Process</a></li>
+                  <li id="contact"  class="nav-item"><a href="<?php echo $modulelink; ?>&action=progressbar" class="progressbar"><i class="wgs-flat-icon fas fa-poll"></i>Progress Bar</a></li>
                   <li id="contact"  class="nav-item"><a href="<?php echo $modulelink; ?>&action=kpi_details" class="kpi_details"><i class="wgs-flat-icon fas fa-ticket-alt fa-fw"></i>KPI For Support Tickets</a></li>
                 </ul>
             </div>
