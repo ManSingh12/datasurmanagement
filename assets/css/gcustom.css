@@ -1,0 +1,492 @@
+.three-column-area{
+    margin-top: 36px;
+     margin-left: 0px;
+     margin-right: 0px;
+     display: contents;
+ }
+ 
+ .delete_button_area{
+     display:none;
+         margin-bottom: -43px;
+     margin-top: -2px;
+     z-index: 100000;
+     margin-left: 15px;
+     padding-left: 20px;
+     width: 98.1%;
+     
+ }
+ 
+ .linking-area3{	
+     font-size: 23px !important;
+     padding-top: 10px !important;
+     cursor:pointer !important;
+ }
+ 
+ .all-published-drafts{
+     cursor:pointer;
+ }
+ 
+ .three-column-area-two{
+     margin-top:10px;
+ }
+ 
+ .below-dashboard-area{
+     border:2px solid lightgray; 
+     padding:0px !important
+ }
+ 
+ .lower-dashboard-area{
+     padding:0px !important
+ }
+ 
+ .ext_dashboard_area{
+     border-right:2px solid lightgray;  
+     padding: 3px 31px;
+ }
+ 
+ .flat-custom-part{
+     color: #333 !important;
+     font-size: 42px !important;
+ }
+ 
+ .m-widget4__info .count-area-inner{
+     font-size: 2rem !important; 
+     color: darkgray !important;
+     font-weight: bold !important;
+ }
+ 
+ .m-widget4__info .count-area-pages-inner{
+     font-size: 1.85rem !important;
+     color: darkgray !important;   
+     font-weight: 900 !important;
+ }
+ 
+ .most-popular-table{
+     border: 1px solid lightgray;
+     margin-bottom: 20px;
+ }
+ 
+ .top-pages-area{
+     width: 60%;
+     border-right: 1px solid darkgray !important; 
+     background-color: lightgray; 
+     font-weight: bold;    
+     font-size: 15.5px;
+ }
+ 
+ .views-area{
+     background-color: lightgray; 
+     font-weight: bold;
+     font-size: 15.5px;
+ }
+ 
+ .first-td-area-gray{
+     width: 60%;
+     border-right: 1px solid lightgray;
+ }
+ 
+ .second-td-area-white{
+     width: 60%;
+     border-right: 1px solid lightgray; 
+     background-color: white;
+ }
+ 
+ .white-bg-area{
+     background-color: white;
+ }
+ 
+ .main-page-cat-area{
+     background: #ecf0f5;
+     padding: 20px 20px;
+ }
+ 
+ .main-grid-layout-area{
+      padding: 20px 21px;
+ }
+ 
+ .grid-area-left{
+     width: 60%;
+ }
+ 
+ .before-eyes-icon1{
+     display: inline-block;
+     font-size: 14px;
+     line-height: 31px;
+     background-color: #00c0ef;
+     color: white;
+     width: 37px;
+     height: 30px;
+     text-align: center;
+     vertical-align: bottom;
+     border-radius: 6px;
+     margin-bottom: 2px;
+ }
+ 
+ .eyes-icon1{
+         display: inline-block;
+         font-size: 14px;
+         line-height: 31px;
+         background-color: #e7e7e7;
+         color: white;
+         width: 34px;
+         height: 30px;
+         text-align: center;
+         vertical-align: bottom;
+         border-radius: 6px;
+         border: 1px solid #666;
+         margin-bottom: 2px;
+ }
+ 
+ .edt-icon1{
+     display: inline-block;
+     font-size: 14px;
+     line-height: 30px;
+     background-color: #f39c12;
+     color: white;
+     width: 36px;
+     height: 30px;
+     text-align: center;
+     vertical-align: bottom;
+     border-radius: 6px;
+     margin-bottom: 2px;
+ }
+ 
+ .dlt-icon1{
+     display: inline-block;
+     font-size: 14px;
+     line-height: 31px;
+     background-color: red;
+     color: white;
+     width: 30px;
+     height: 30px;
+     text-align: center;
+     vertical-align: bottom;
+     border-radius: 6px;
+     margin-bottom: 2px;
+ }
+ 
+ .awsm-icn-size-before-eyes{
+     font-size:18px;
+ }
+ 
+ .awsm-icn-size-eyes-icon1{
+     font-size:18px;
+     color:#666
+ }
+ 
+ .awsm-icn-size-edt-icon1{
+     font-size: 17px;
+     padding-left: 3px;
+ }
+ 
+ .awsm-icn-size-dlt-icon1{
+     font-size:18px;
+ }
+ 
+ table.dataTable thead th.no-brdr-area{
+    border-bottom: 0px solid !important;
+ }
+ 
+ table.dataTable.no-brdr-area {
+     border-bottom: 0px solid !important;
+ }
+ 
+ /*  home page css starts  */
+ 
+ .small-col-area{
+     border: 2px solid #333 !important;
+ }
+ 
+ .small-col-area-inner-left{
+     width:25%; 
+     background-color:#f2f3f8;     
+     border-right: 2px solid #333!important;
+ }
+ 
+ 
+ .small-col-area-inner-right{
+    background-color:#f2f3f8
+ }
+ 
+ .digt-count-area{
+     font-size: 27px;
+ }
+ 
+ .table>thead>tr>th.small-col-area-inner-left, .table>thead>tr>th.small-col-area-inner-right {
+    border-bottom:0px solid !important;
+ } 
+ 
+ /*  home page css ends  */
+ 
+ 
+ /*  add page css starts  */	
+ 
+ .main-grid-layout-area-lower1{
+     margin-top:30px; 
+     padding-left: 0px;
+ }
+ 
+ .main-grid-lower2{
+     padding-left: 0px;
+ }
+ 
+ .main-grid-lower3{
+     width: 99%; padding-left:0px
+ }
+ 
+ .form-horizontal .control-label2{
+     text-align:left !important;           
+ }
+ 
+ .page-cntnt-area
+ {
+     border: 1px solid #333;
+     margin: 15px;
+     padding: 10px;
+     color: #333;
+     background-color: lightgray;
+     width: 98%;
+     }
+ 
+ .page-url-fld{
+     width:60%; 
+     float:left
+ }
+ 
+ 
+ .slug-name-details{
+     width:21%; 
+     float:left
+ }
+ 
+ 
+ 
+ 
+ 
+ @media only screen
+ and (max-width : 600px) 
+  { 
+      
+   .page-url-fld{
+     width:100% !important; 
+     float:left
+ }
+ 
+ 
+ .slug-name-details{
+     width:100% !important; 
+     float:left
+ }   
+      
+      
+  }
+ 
+ 
+ 
+ 
+ 
+ 
+ .upload-cust-size{
+     font-size:36px
+ }
+ 
+ 
+ .full-dashed-area{
+     padding: 0 13px;
+ }
+ 
+ .full-dashed-area-inner
+ {
+     padding:5px 0px; border-bottom:3px dashed #999;
+ }
+ 
+ .hide-section-padding-area{
+     padding:15px
+ }
+ 
+ .page-status-main-area{
+     width:100%; 
+     border:1px solid #333; 
+     float:left; 
+     padding:15px 10px 15px 20px;
+     margin-top: 10px;
+ }
+ 
+ .page-status-top-area{
+     padding-left:0px
+ }
+ 
+ .right-created-area{
+    margin-right:38px;
+ }
+ 
+ .right-edited-area{
+     margin-right:50px;
+ }
+ 
+ .right-status-area{
+     margin-right:47px
+ }
+ 
+ .main-page-option-area{
+     width:100%; 
+     border:1px solid #333; 
+     float:left; 
+     margin-top:40px; 
+     padding:15px 10px 15px 35px;
+ }
+ 
+ .page-visibility-area{
+     width:100%; 
+     float:left
+ }
+ 
+ .inner-draft-area{
+     
+     width:100%; float:left
+ }
+ 
+ .dd-inner-area{
+     margin-top: 10px;
+     width: 89%;
+ }
+ 
+ .page-cat-sub-area{
+     width:100%; float:left
+ }
+ 
+ .page-cat-sub-area-right{
+     margin-right:47px;
+ }
+ 
+ .index-inner-area{
+     padding-top:5px
+ }
+ 
+ .green-btn-area2{
+     background-color:green
+ }
+ 
+ 
+ 
+ .page-content-txt-area{
+  margin-top:20px;
+ }
+ 
+ .form-group .mrgn-area-cntnt{
+     margin-top:20px;
+ } 
+ 
+ 
+ .below-adv-option-area{
+     width: 100%; 
+     border: 1px solid #333;
+     padding: 10px 20px;
+ }
+ 
+ 
+ .slug-edt-area{
+     font-size: 20px;
+     line-height: 33px;
+ }
+ 
+ .dt-pkr-area{
+     height: 36px;
+     border-radius: 4px;
+     width: 152px;
+     border: 2px solid lightgray; 
+     margin-right:20px;
+     padding: 0px 14px;
+     float:left;
+ }
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ /*  add page css ends  */	
+ 
+ 
+ /*  add post css starts  */
+ 
+ .unless_a_date{
+     color:red;
+ }
+ 
+ .right-schedule-area{
+     margin-right: 7px;
+     float: left;
+ }
+ 
+ 
+ 
+ .dt-pkr-area2{
+     height: 36px;
+     border-radius: 4px;
+     width: 125px;
+     border: 2px solid lightgray;
+     margin-right: 6px;
+     padding: 0px 3px;
+         float: left;
+ }
+ 
+ .cal-area1{
+    padding-top: 10px; 
+ }
+ 
+ .cal-area2{
+     padding-top: 10px; 
+ }
+ 
+ #tagListTable_filter, #tagListTable_length, #blockListTable_filter, #blockListTable_length{
+     display:none;
+ } 
+ 
+ form .select2-container--default .select2-selection--single .select2-selection__rendered {
+     
+     text-align: left;
+ }
+ 
+ .select2-container--default .select2-selection--single .select2-selection__rendered {
+     
+     text-align: left;
+ }
+ 
+ 
+ form .select2-container--default .select2-selection--single {
+     border: 0;
+     background-color: #f4f5f8;
+     height: 34px;
+     padding: 3px 5px;
+ }
+ 
+ .select2-container--default .select2-selection--single {
+     border: 0;	
+     height: 34px;
+     padding: 3px 5px;
+ }
+ 
+ 
+ #dynamicBlockContentArea .select2-container--default .select2-selection--single {
+     background-color: #f4f5f8;
+     width: 314px;
+ }
+ 
+ #dynamicBlockContentArea .select2-container {
+    
+     width: auto !important;
+ }
+ 
+
+ 
+ 
+ /*  add post css ends  */
+ 
+ 
+ 
